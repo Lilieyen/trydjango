@@ -1,0 +1,2 @@
+# trydjango
+Intro to Django
